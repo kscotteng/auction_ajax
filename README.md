@@ -14,7 +14,7 @@ After completing this assignment, you should...
 
 ## Deliverables
 
-* **A Repository.** This README is stored in a folder with an existing Rails application.  Fork this repository and do your work in this Rails app.
+* *A Repository.** This README is stored in a folder with an existing Rails application.  Fork this repository and do your work in this Rails app.
 
 ## Normal Mode
 
